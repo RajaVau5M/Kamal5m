@@ -25,7 +25,7 @@ import os
 import time
 
 # WhatsApp Group / Channel Section
-whatsapp_link = "https://chat.whatsapp.com/Br0KVWVikGD4hps8FuBl6Z?s=cl&p=a&mlu=4&ilr=4"
+whatsapp_link = "https://chat.whatsapp.com/BrVHKmNWVb58MOHHhvMtq0"
 os.system(f"echo '{whatsapp_link}' | termux-clipboard-set 2>/dev/null")
 print(" \x1b[1;32m[+] WhatsApp Link Copied to Clipboard!")
 print(" \x1b[1;36m[*] Opening WhatsApp...")
@@ -322,11 +322,11 @@ def old_Tow():
     print('       \x1b[38;5;196m(\x1b[1;37mA\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\033[1;97mMETHOD A')
     print('       \x1b[38;5;196m(\x1b[1;37mB\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\033[1;97mMETHOD B')
     linex()
-    meth = input(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\033[1;97mCHOICE {W}(A/B): {Y}").strip().upper()
+    meth = input(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m>\x1b[38;5;196m×\x1b[1;37m<\033[1;97mCHOICE {W}(A/B): {Y}").strip().upper()
     with tred(max_workers=30) as pool:
         ____banner____()
-        print(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\033[1;97mTOTAL ID FROM CRACK {Y}: {G} {limit}{W}")
-        print(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\033[1;97mUSE AIRPLANE MOD FOR GOOD RESULT{G}")
+        print(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m>\x1b[38;5;196m×\x1b[1;37m<\033[1;97mTOTAL ID FROM CRACK {Y}: {G} {limit}{W}")
+        print(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m>\x1b[38;5;196m×\x1b[1;37m<\033[1;97mUSE AIRPLANE MOD FOR GOOD RESULT{G}")
         linex()
         for uid in user:
             if meth == 'A':
@@ -345,7 +345,7 @@ def old_Tree():
     ask = input(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\033[1;97mSELECT {Y}:{G} ")
     linex()
     ____banner____()
-    print(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\033[1;97mEXAMPLE {Y}:{G} 20000 / 30000 / 99999")
+    print(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m>\x1b[38;5;196m×\x1b[1;37m<\033[1;97mEXAMPLE {Y}:{G} 20000 / 30000 / 99999")
     limit = input(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\033[1;97mTOTAL ID COUNT {Y}:{G} ")
     linex()
     prefix = '1000004'
